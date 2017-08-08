@@ -3,3 +3,6 @@ Red
 White
 Snurple
 Pink
+White
+Green
+Yellow

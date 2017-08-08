@@ -3,3 +3,6 @@ Pear
 Grape
 Bannana
 Cherry
+Mango
+Orange
+Lemon
