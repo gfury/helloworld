@@ -6,3 +6,4 @@ Pink
 White
 Green
 Yellow
+Teal
