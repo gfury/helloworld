@@ -7,3 +7,4 @@ White
 Green
 Yellow
 Teal
+Purple
